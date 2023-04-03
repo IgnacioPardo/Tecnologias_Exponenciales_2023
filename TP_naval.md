@@ -8,7 +8,7 @@ A resolver en grupos de 2 a 3 personas.
 
 1. Con lo visto en clase sobre listas de listas, armar un programa que simule una batalla naval. El programa debe permitir ingresar las coordenadas de disparo, y mostrar si se acertó o no un barco. El usuario tiene una cantidad predefinida de disparos. Al finalizar el juego, mostrar la cantidad de disparos acertados y fallados.
 
-2. Dada una variable que determine la cantidad de barcos, modificar el usuario para permitirle a otro usuario previamente las posiciones de los N barcos.
+2. Dada una variable que determine la cantidad de barcos, modificar el programa para permitirle a otro usuario ingresar previamente las posiciones de los N barcos.
 
 ## ⚡️ Bonus
 
