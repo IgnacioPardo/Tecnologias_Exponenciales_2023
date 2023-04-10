@@ -18,6 +18,6 @@ Permitir barcos de hasta 3 casillas.
 
 ## Formato de entrega
 
-Entregar un archivo `naval-Apellido1-Apellido2-Apellido3.py` que contenga el código del programa. Completar el siguiente formulario de Google Forms.
+Entregar un archivo `naval-Apellido1-Apellido2-Apellido3.py` que contenga el código del programa. Completar el siguiente formulario de [Google Forms](https://forms.gle/UnB28JXc9NmMkXb5A).
 
 ## 📅 Fecha de entrega: Viernes 14 de Abril
