@@ -14,4 +14,8 @@
 - [x] Clase 1: Presentación de la Materia
 - [x] Clase 2: Introducción a Python
 - [x] Clase 3: [Fizz Buzz](https://github.com/IgnacioPardo/Tecnologias_Exponenciales_2023/blob/main/fizz-buzz.md)
-- [ ] Clase 4: Listas
+- [X] Clase 4: Listas
+
+# Trabajos Practicos
+
+1. [Batalla Naval](https://github.com/IgnacioPardo/Tecnologias_Exponenciales_2023/blob/main/TP_naval.md)
