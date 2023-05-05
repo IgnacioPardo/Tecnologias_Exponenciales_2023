@@ -87,6 +87,8 @@ Ejemplo:
 normalizar([1, 2, 3, 4, 5], 0, 10)
 # [0.1, 0.2, 0.3, 0.4, 0.5]
 
+# En este caso, como el rango va de 0 a 10, 5 es 1/2 de 10, por lo que el valor 5 normalizado va a parar a 1/2 o 0.5
+
 normalizar([2, 4, 6, 8], 0, 8)
 # [0.25, 0.5, 0.75, 1.0]
 
