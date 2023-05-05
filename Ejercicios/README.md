@@ -58,7 +58,7 @@ Escribir una función que tome una lista de números y devuelva el promedio de l
 
 ### Ejercicio 5
 
-Escribir una función que tome una lista de números y devuelva el mayor número que no sea divisible entre otro número. Si la lista está vacía, devolver 0.
+Escribir una función que tome una lista de números y devuelva el mayor número que no sea divisible por ningún otro número de la lista. Si la lista está vacía, devolver 0.
 
 ### Ejercicio 6
 
