@@ -16,7 +16,7 @@ El análisis debe incluir al menos los siguientes puntos:
 - ¿A partir de que fecha se registraron las reproducciones? ¿Hasta que fecha?
 
 - ¿Cuántas canciones diferentes se escucharon en total?
-- ¿Cuánto tiempo duró el periodo en el que se registraron las reproducciones?
+- ¿Cuánto es la duración total de las reproducciones registradas?
 - ¿Cuál es el artista más escuchado?
 - ¿Cuál es la canción más escuchada?
 - Del artista más escuchado, ¿cuál es la canción más escuchada?
