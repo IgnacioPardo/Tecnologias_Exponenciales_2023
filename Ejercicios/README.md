@@ -58,7 +58,7 @@ Escribir una función que tome una lista de números y devuelva el promedio de l
 
 ### Ejercicio 5
 
-Escribir una función que tome una lista de números y devuelva el mayor número que no sea divisible entre otro número. Si la lista está vacía, devolver 0.
+Escribir una función que tome una lista de números y devuelva el mayor número que no sea divisible por ningún otro número de la lista. Si la lista está vacía, devolver 0.
 
 ### Ejercicio 6
 
@@ -86,6 +86,8 @@ Ejemplo:
 ```python
 normalizar([1, 2, 3, 4, 5], 0, 10)
 # [0.1, 0.2, 0.3, 0.4, 0.5]
+
+# En este caso, como el rango va de 0 a 10, 5 es 1/2 de 10, por lo que el valor 5 normalizado va a parar a 1/2 o 0.5
 
 normalizar([2, 4, 6, 8], 0, 8)
 # [0.25, 0.5, 0.75, 1.0]
