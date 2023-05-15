@@ -15,7 +15,7 @@ El análisis debe incluir al menos los siguientes puntos:
 - ¿Que información contiene el dataset? Describir las columnas y los tipos de datos.
 - ¿A partir de que fecha se registraron las reproducciones? ¿Hasta que fecha?
 
-- ¿Cuántas canciones se escucharon en total?
+- ¿Cuántas canciones diferentes se escucharon en total?
 - ¿Cuánto tiempo duró el periodo en el que se registraron las reproducciones?
 - ¿Cuál es el artista más escuchado?
 - ¿Cuál es la canción más escuchada?
