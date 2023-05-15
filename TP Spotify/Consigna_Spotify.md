@@ -2,7 +2,7 @@
 
 ## Introducción
 
-El objetivo de este trabajo es realizar un análisis exploratorio de un dataset de Spotify. El mismo contiene el historial de reproducciones de un usuario de Spotify durante un año. El dataset se encuentra en el archivo `StreamingHistory.json`.
+El objetivo de este trabajo es realizar un análisis exploratorio de un dataset de Spotify. El mismo contiene el historial de reproducciones de un usuario de Spotify durante un año. El dataset se encuentra en el archivo `StreamingHistory.json` [disponible aquí]().
 
 Para realizar el análisis, se debe utilizar Python y las herramientas vistas en clase. En particular Pandas y Matplotlib. Opcionalmente se pueden utilizar otras herramientas como Seaborn.
 
@@ -13,22 +13,34 @@ Se va a evaluar la calidad del análisis realizado, la presentación de los resu
 El análisis debe incluir al menos los siguientes puntos:
 
 - ¿Que información contiene el dataset? Describir las columnas y los tipos de datos.
+- ¿A partir de que fecha se registraron las reproducciones? ¿Hasta que fecha?
+
 - ¿Cuántas canciones se escucharon en total?
 - ¿Cuánto tiempo duró el periodo en el que se registraron las reproducciones?
 - ¿Cuál es el artista más escuchado?
 - ¿Cuál es la canción más escuchada?
-- ¿Cuál es el género más escuchado?
-- ¿Cuál es el día de la semana en el que más se escucha música?
-- ¿En que horario se escucha más música?
-- ¿Cuál es el mes en el que más se escucha música?
-- ¿Cuál es el artista que más se escucha en cada mes?
+- Del artista más escuchado, ¿cuál es la canción más escuchada?
+
+- Determinar el top 10 de artistas más escuchados. Elegir un tipo de gráfico adecuado para visualizar los resultados.
+- Determinar el top 10 de canciones más escuchadas. Elegir un tipo de gráfico adecuado para visualizar los resultados.
+
+Ademas, se deben plantear al menos 3 preguntas adicionales y responderlas utilizando el dataset.
 
 Algunas consideraciones a tener en cuenta:
 
 - Al explorar el datasets, se deben "limpiar" los datos antes de visualizar los DataFrames.
 - El dataset contiene información de un año. Por lo tanto, se pueden utilizar datos agrupados por mes, día de la semana, etc. Investigar la documentación de Pandas para convertir las fechas al tipo de dato `datetime`.
 - Al determinar, por ejemplo, la canción más escuchada, se debe tener en cuenta que una misma canción puede aparecer varias veces en el dataset. Cada registro corresponde a una reproducción de una canción, y contiene un campo `msPlayed` que indica la duración de la reproducción en milisegundos. Por lo tanto, se debe tener en cuenta este campo para determinar la canción más escuchada.
+- ¿Que sucede si se escucha una canción durante 30 segundos y luego se vuelve a escuchar la misma canción durante 30 segundos? ¿Cómo se debe considerar esta situación al determinar la canción más escuchada? ¿Y si se escucha durante 0ms?
 - Para responder a las preguntas, se debe ademas generar visualizaciones que permitan entender mejor los datos. Por ejemplo, se puede generar un gráfico de barras para visualizar el artista más escuchado. Investigar la documentación de Matplotlib para generar distintos tipos de gráficos.
+
+## 🔋 Bonus
+
+- ¿Cuál es el día de la semana en el que más se escucha música?
+- ¿En que horario se escucha más música?
+- ¿Cuál es el mes en el que más se escucha música?
+- ¿Cuál es el artista que más se escucha en cada mes?
+- ¿Cuál es la canción que más se escucha en cada mes?
 
 ## Entrega
 
