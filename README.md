@@ -19,3 +19,4 @@
 # Trabajos Practicos
 
 1. [Batalla Naval](https://github.com/IgnacioPardo/Tecnologias_Exponenciales_2023/blob/main/TP_naval.md)
+2. [Spotify](https://github.com/IgnacioPardo/Tecnologias_Exponenciales_2023/blob/main/TP%20Spotify/Consigna_Spotify.md)
