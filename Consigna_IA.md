@@ -30,6 +30,6 @@ El formato de presentación tambien debe ser aprobado por el docente.
 
 ### Entrega
 
-Completar el siguiente [Google Forms]() con los datos de los integrantes del grupo, el tema elegido y los archivos de entrega.
+Completar el siguiente [Google Forms](https://forms.gle/JSvztQHaruUoohwJ8) con los datos de los integrantes del grupo, el tema elegido y los archivos de entrega.
 
 Fecha de entrega: Un bloque antes de la exposición.
