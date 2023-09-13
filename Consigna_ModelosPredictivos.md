@@ -45,7 +45,7 @@ Responder las mismas preguntas que en el punto 5 para este caso.
 
 ## Formato de entrega
 
-El trabajo práctico se debe realizar en un notebook de Jupyter. El notebook debe estar subido a un repositorio de GitHub. El link al repositorio debe ser completado en el siguiente [Google Form]().
+El trabajo práctico se debe realizar en un notebook de Jupyter. El notebook debe estar subido a un repositorio de GitHub. El link al repositorio debe ser completado en el siguiente [Google Form](https://forms.gle/xtzVWhRMh74qFXEd7).
 
 ## Fecha de entrega
 
