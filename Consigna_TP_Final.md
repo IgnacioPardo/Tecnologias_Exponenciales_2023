@@ -10,7 +10,7 @@ Ademas en el mismo notebook deberán:
 - Identificar y explicar los conceptos teóricos vistos en clase sobre modelado y entrenamiento de redes neuronales. Tip: visualizar el modelo con algún paquete como [`keras-visualizer`](https://github.com/lordmahyar/keras-visualizer) para explicar su comportamiento.
 - Visualizar los datos de entrada, ejemplos tomados del dataset, y algunos ejemplos de salida.
 
-Se puede optar por resolver el problema de MNIST de clasificación de dígitos a mano o Fashion MNIST. Este ya viene cargado en Google Colab.
+Se puede optar por resolver el problema con el dataset de Fashion MNIST. Este ya viene cargado en Google Colab.
 Pueden encontrar otros datasets en [Kaggle](https://kaggle.com/) o directamente de internet.
 
 El trabajo se puede resolver de hasta 4 integrantes.
