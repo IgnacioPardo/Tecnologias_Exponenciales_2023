@@ -23,4 +23,4 @@ B. Investigar la función de activación Softmax y explicar como se puede utiliz
 
 ## Entrega
 
-La entrega consiste en un notebook de Jupyter con el código y las explicaciones correspondientes. La fecha de entrega es el 29/10/2023 a través del siguiente [Google Forms]().
+La entrega consiste en un notebook de Jupyter con el código y las explicaciones correspondientes. La fecha de entrega es el 29/10/2023 a través del siguiente [Google Forms](https://forms.gle/q7m1mpQnTHeChzWp9).
